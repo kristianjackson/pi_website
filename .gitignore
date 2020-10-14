@@ -3,3 +3,4 @@ website/.env
 users/__pycache__
 feed/__pycache__
 website/__pycache__
+env/
